@@ -1,0 +1,11 @@
+.container{
+  width: 40%;
+  margin: 20px auto;
+}
+
+.btn-primary{
+  width: inherit;
+  background-color: #5DB1C9;
+  border-color: #71B6C9;
+  color: white;
+}
